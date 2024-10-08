@@ -19,6 +19,6 @@ Data after placement shortlisting:<br/>
 ![after training shortlist](https://github.com/user-attachments/assets/b2ba7536-eb9c-4162-9ae3-46ce45e5ed11)
 <br/><br/>
 Hugging face embedding in Uipath:<br/>
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/02919900-3e8b-4889-8b95-885cd9c1aebe)
 <br/><br/>
 
